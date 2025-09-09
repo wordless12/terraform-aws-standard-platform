@@ -1,5 +1,27 @@
+module "wrapper_organization" {
+  source = "../../modules/organization"
+
+  metadata = {
+    aws_region     = "us-east-1"
+    environment    = "Production"
+    public_domain  = "democorp.cloud"
+    private_domain = "democorp"
+
+    key = {
+      company = "dmc"
+      region  = "use1"
+      env     = "prd"
+      layer   = "foundation"
+    }
+  }
+
+  organization_parameters    = {}
+  identity_center_parameters = {}
+  s3_backend_parameters      = {}
+}
+
 module "wrapper_base" {
-  source = "../../base"
+  source = "../../modules/base"
 
   metadata = {
     aws_region     = "us-east-1"
@@ -22,7 +44,7 @@ module "wrapper_base" {
 }
 
 module "wrapper_foundation" {
-  source = "../../foundation"
+  source = "../../modules/foundation"
 
   providers = {
     aws.use1 = aws.use1
@@ -55,7 +77,7 @@ module "wrapper_foundation" {
 }
 
 module "wrapper_project" {
-  source = "../../project"
+  source = "../../modules/project"
 
   metadata = {
     aws_region     = "us-east-1"
@@ -88,7 +110,7 @@ module "wrapper_project" {
 }
 
 module "wrapper_workload" {
-  source = "../../workload"
+  source = "../../modules/workload"
 
   providers = {
     aws.use1 = aws.use1
